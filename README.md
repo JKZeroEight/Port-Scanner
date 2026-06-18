@@ -42,6 +42,6 @@ The tool looks at a range of these doors. Tells which ports are open.
 
 To get the tool download it from the internet:
 
-```bash
+Bash
 
-git clone https://github.com/JKZeroEight/Port-Scanner.git```
+git clone https://github.com/JKZeroEight/Port-Scanner.git
